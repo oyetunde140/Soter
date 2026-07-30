@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/expose-model-provider-metadata",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/expose-model-provider-metadata": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/expose-model-provider-metadata",
+    "origin"
+  ]
+}
